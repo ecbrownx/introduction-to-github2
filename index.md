@@ -12,3 +12,7 @@ function test(){
 console.log('test');
 }
 ```
+
+- [] Turn On GitHub Pages
+- [] Outline My Portfolio
+- [] Introduce Myself To The World
