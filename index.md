@@ -6,3 +6,9 @@
 ###### This is a H6 Header
 
 ![Image of Yakocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+function test(){
+console.log('test');
+}
+```
